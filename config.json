@@ -1,6 +1,6 @@
 {
   "authServer": "serwer1954279.home.pl/Auth.php",
   "updateServer": "serwer1954279.home.pl/synccom/studio/SyncCom.exe",
-  "currentVersion": "4.0.0",
+  "currentVersion": "10.0.0",
   "maintenance": false
 }
