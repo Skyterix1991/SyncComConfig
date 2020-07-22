@@ -1,5 +1,5 @@
 {
-  "authServer": "taniecifitness.pl/Auth.php",
+  "authServer": "taniecifitness.pl/SyncComAuth.php",
   "updateServer": "taniecifitness.pl/synccom/studio/SyncCom.exe",
   "currentVersion": "10.0.1",
   "maintenance": false
